@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+    "my_main",
+    "my_lib"
+]
